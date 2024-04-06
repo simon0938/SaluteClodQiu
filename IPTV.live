@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.erw.cc/e.xml,https://epg.pw/xmltv/epg_CN.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#♻️ 九宮閣•導視
+#♻️ 软件接口免费 请勿付费购买
 #EXTINF:-1 tvg-id="九宮閣" tvg-name="九宮閣" tvg-logo="https://live.5iclub.dedyn.io/STAGE/HD/九宫阁导视.png" group-title="♻️ 九宮閣•導視",九宮閣•導視 Ⅰ「IPv6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="九宮閣" tvg-name="九宮閣" tvg-logo="https://live.5iclub.dedyn.io/STAGE/HD/九宫阁导视.png" group-title="♻️ 九宮閣•導視",九宮閣•導視 Ⅱ「IPv6」
